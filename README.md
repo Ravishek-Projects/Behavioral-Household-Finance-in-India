@@ -1,6 +1,7 @@
 # Indian Household Financial Behavior Analysis
 
 **Author:** Ravishek Kumar
+
 **[🚀 Link to Notebook](https://colab.research.google.com/drive/1-oOEQ55-W7z1qUZ8HF2BCItwdlgS-Ybh#scrollTo=1_GiQG6kOhzV)**
 
 This repository contains an end-to-end data pipeline and econometric analysis exploring the financial behavior of Indian households. Using extensive microdata from the Centre for Monitoring Indian Economy (CMIE), this project investigates consumption smoothing, the "co-holding puzzle" (simultaneously holding high-cost debt and illiquid savings), and the gap between financial intentions and actual behaviors.
